@@ -22,7 +22,7 @@
 ```bash
 curl -O https://raw.githubusercontent.com/TheRaiwy/JGC/main/JGC.command
 ```
-Или скачайте JGC.command из репозитория
+Или скачайте JGC.command из Releases
 
 2. Дайте права на выполнение:
 ```bash
