@@ -1,6 +1,6 @@
 # Установщик Java 8 для Minecraft (macOS)
 
-![macOS](https://img.shields.io/badge/macOS-兼容的-blue)
+![macOS](https://img.shields.io/badge/macOS-11+-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Автоматический установщик Java 8 для запуска Minecraft (GravityCraft) версий 1.7.10 и 1.12.2 на macOS с чипом Apple Silicon.
