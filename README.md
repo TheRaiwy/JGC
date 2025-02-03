@@ -20,8 +20,9 @@
 ## 🛠️ Установка
 1. Скачайте скрипт:
 ```bash
-curl -O https://raw.githubusercontent.com/TheRaiwy/JGC/main/GJC.command
+curl -O https://raw.githubusercontent.com/TheRaiwy/JGC/main/JGC.command
 ```
+Или скачайте JGC.command из репозитория
 
 2. Дайте права на выполнение:
 ```bash
